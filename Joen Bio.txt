@@ -1,7 +1,7 @@
-**********************************************
-Hi! My name is Joen. 
-I have been linving in the U.S. for 8 monthes.
-I enjoy drawing alot in my free time.
+*************************************************************************************************************************************
+Hi! My name is Joen. I have been linving in the U.S. for 8 monthes. I used to lived in Japan 10+ years and China 10+ years.
+I really love the environment of Seattle, which has lots of beautiful parks and surrounded by spectacular moutains.
+I'm obsessed with cats, and I own 5 cats! In my free time, I play with them. Also, I enjoy drawing a lot in my free time.
 
 ========================
 These are what I drew:
@@ -16,4 +16,6 @@ These are what I drew:
  + baby giraffe
  + cheetah
 =========================
-**********************************************
+
+I'm looking forward to learn a lot about software/web development and modern technology in ITC134.
+*************************************************************************************************************************************
